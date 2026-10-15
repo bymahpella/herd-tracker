@@ -12,7 +12,7 @@ Following several herds means repeatedly opening the map and looking up when eac
 
 ## Download & Install
 
-Download the mod from my website: [https://mahpella.com/games/way-of-the-hunter/mods/favorite-herd](https://mahpella.com/games/way-of-the-hunter/mods/favorite-herd)
+You can download the mod from my [Website](https://mahpella.com/games/way-of-the-hunter/mods/favorite-herd) or [Nexus Mods](https://www.nexusmods.com/wayofthehunter/mods/28).
 
 **Installation guide**
 
@@ -30,8 +30,6 @@ Close the game. In Steam, browse the local files for Way of the Hunter and open:
 
 Extract the archive and copy all **.pak files into the Paks folder**, replacing older versions if necessary.  
 Launch the game and load your save.
-
-This archive requires both `WOTH_MapInterface_P.pak` and `WOTH_HerdFavorites_1_P.pak`. Remove the old combined `WOTH_NeedZoneClarity_P.pak` and obsolete `WOTH_HerdFavorites_P.pak` if present. When also using Better Need Zones, keep one matching copy of `WOTH_MapInterface_P.pak` from the 0.2.2 split build. Mod Settings Core is not required for this mod.
 
 ## How to Use
 
